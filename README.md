@@ -1,5 +1,3 @@
-
-
 # Hi, I'm Sudarshan Bangar 👋
 
 Aspiring Salesforce Developer focused on Apex, SOQL, LWC, Salesforce Admin, Flow Builder, and CRM automation.
@@ -28,6 +26,5 @@ Real-world Apex trigger scenarios with handler classes and test classes.
 Preparing for an entry-level Salesforce Developer/Admin role.
 
 ## Connect
-- LinkedIn: add your LinkedIn link
-- Portfolio: add your portfolio link
-- Email: add your email
+- LinkedIn: https://www.linkedin.com/in/sudarshanbangar5807
+- Email: bangarsudarshan87@gmail.com
