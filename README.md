@@ -1,30 +1,21 @@
-# Hi, I'm Sudarshan Bangar 👋
+<h1 align="center">Hi 👋, I'm Sudarshan Bangar</h1>
 
-Aspiring Salesforce Developer focused on Apex, SOQL, LWC, Salesforce Admin, Flow Builder, and CRM automation.
+<h3 align="center">Aspiring Salesforce Developer | Apex | LWC | Salesforce Admin | CRM Automation</h3>
 
-## Currently Building
-- Salesforce Student Management App
-- Lead Management CRM
-- Apex Trigger Practice Projects
-- Salesforce Flow Automation Projects
+---
 
-## Skills
-Salesforce Admin | Apex | SOQL | SOSL | LWC | Flow Builder | Validation Rules | Reports | Dashboards | Git | GitHub | HTML | CSS | JavaScript
+## 👨‍💻 About Me
 
-## Featured Projects
-
-### Salesforce Student Management App
-CRM app to manage students, courses, enrollments, fees, reports, and dashboards.
-
-### Salesforce Lead Management CRM
-Lead tracking system with assignment automation, status updates, reports, and dashboards.
-
-### Apex Trigger Practice
-Real-world Apex trigger scenarios with handler classes and test classes.
-
-## Learning Goal
-Preparing for an entry-level Salesforce Developer/Admin role.
-
-## Connect
-- LinkedIn: https://www.linkedin.com/in/sudarshanbangar5807
-- Email: bangarsudarshan87@gmail.com
+```python
+class SudarshanBangar:
+    role = "Aspiring Salesforce Developer"
+    location = "Maharashtra, India"
+    focus = ["Salesforce Admin", "Apex", "SOQL", "LWC", "Flow Builder"]
+    goal = "Entry-level Salesforce Developer/Admin role"
+    
+    def current_work(self):
+        return [
+            "Building Salesforce CRM projects",
+            "Practicing Apex triggers and test classes",
+            "Learning LWC and Salesforce deployment"
+        ]
