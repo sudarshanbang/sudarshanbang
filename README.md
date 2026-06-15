@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**sudarshanbang/sudarshanbang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Sudarshan Bangar 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aspiring Salesforce Developer focused on Apex, SOQL, LWC, Salesforce Admin, Flow Builder, and CRM automation.
+
+## Currently Building
+- Salesforce Student Management App
+- Lead Management CRM
+- Apex Trigger Practice Projects
+- Salesforce Flow Automation Projects
+
+## Skills
+Salesforce Admin | Apex | SOQL | SOSL | LWC | Flow Builder | Validation Rules | Reports | Dashboards | Git | GitHub | HTML | CSS | JavaScript
+
+## Featured Projects
+
+### Salesforce Student Management App
+CRM app to manage students, courses, enrollments, fees, reports, and dashboards.
+
+### Salesforce Lead Management CRM
+Lead tracking system with assignment automation, status updates, reports, and dashboards.
+
+### Apex Trigger Practice
+Real-world Apex trigger scenarios with handler classes and test classes.
+
+## Learning Goal
+Preparing for an entry-level Salesforce Developer/Admin role.
+
+## Connect
+- LinkedIn: add your LinkedIn link
+- Portfolio: add your portfolio link
+- Email: add your email
