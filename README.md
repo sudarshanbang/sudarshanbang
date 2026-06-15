@@ -62,8 +62,7 @@ Lead tracking system with assignment automation, status updates, reports, and da
 ### Apex Trigger Practice
 Real-world Apex trigger scenarios with handler classes, bulkification, and test classes.
 
-### LWC Mini Projects
-Lightning Web Component practice projects using JavaScript and Salesforce data.
+
 
 ---
 
@@ -77,6 +76,6 @@ Lightning Web Component practice projects using JavaScript and Salesforce data.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudarshan%20Bangar-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudarshan%20Bangar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sudarshanbangar5807/)
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bangarsudarshan87@gmail.com)
