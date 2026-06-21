@@ -32,23 +32,37 @@ I am an aspiring Salesforce Developer focused on building real CRM-based project
 - **LWC Mini Projects**
 
 ---
+## 🛠️ Skills & Technologies
 
-## 🧰 Skills
+### ☁️ Salesforce
+<p align="left">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOQL-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flow%20Builder-0176D3?style=for-the-badge&logo=salesforce&logoColor=white" />
+</p>
 
-### Salesforce
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge)
-![SOQL](https://img.shields.io/badge/SOQL-0052CC?style=for-the-badge)
-![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge)
-![Flow Builder](https://img.shields.io/badge/Flow%20Builder-0176D3?style=for-the-badge)
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,python" />
+</p>
 
-### Web & Tools
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### 🌐 Web Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
 
+### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/SOQL-0052CC?style=for-the-badge" />
+</p>
+
+### ⚙️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+</p>
 ---
 
 ## 📌 Featured Projects
