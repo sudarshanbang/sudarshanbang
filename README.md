@@ -80,12 +80,15 @@ Real-world Apex trigger scenarios with handler classes, bulkification, and test 
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sudarshanbang&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sudarshanbang&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sudarshanbang&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshanbang&theme=github_dark)
 
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudarshanbang&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudarshanbang&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudarshanbang&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudarshanbang&theme=github_dark&utcOffset=5.5)
 
 
 ## 📫 Connect With Me
