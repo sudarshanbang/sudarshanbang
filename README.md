@@ -80,15 +80,54 @@ Real-world Apex trigger scenarios with handler classes, bulkification, and test 
 
 ---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshanbang&theme=github_dark)
+## 📊 GitHub Statistics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudarshanbang&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudarshanbang&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshanbang&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudarshanbang&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanbang&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudarshanbang&theme=tokyonight" height="170"/>
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudarshanbang&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudarshanbang&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudarshanbang&theme=tokyonight&utcOffset=5.5" height="170"/>
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudarshanbang&theme=github_dark&utcOffset=5.5)
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sudarshanbang&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshanbang&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 📌 GitHub Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshanbang&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/sudarshanbang/sudarshanbang/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 
 ## 📫 Connect With Me
