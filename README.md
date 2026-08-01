@@ -91,7 +91,7 @@ Real-world Apex trigger scenarios with handler classes, bulkification, and test 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanbang&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanbang&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
