@@ -82,16 +82,16 @@ Real-world Apex trigger scenarios with handler classes, bulkification, and test 
 
 # 📊 GitHub Stats:
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=sudarshanbang&theme=vue&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sudarshanbang&theme=youtube-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sudarshanbang&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sudarshanbang&theme=black&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 
