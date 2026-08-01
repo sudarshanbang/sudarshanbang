@@ -83,7 +83,7 @@ Real-world Apex trigger scenarios with handler classes, bulkification, and test 
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sudarshanbang&theme=youtube-dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=sudarshanbang&theme=vue&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ Real-world Apex trigger scenarios with handler classes, bulkification, and test 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sudarshanbang&theme=youtube-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sudarshanbang&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 
