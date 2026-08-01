@@ -36,7 +36,7 @@ I am an aspiring Salesforce Developer focused on building real CRM-based project
 
 ### ☁️ Salesforce
 <p align="left">
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=red" />
   <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/SOQL-0052CC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
@@ -83,7 +83,7 @@ Real-world Apex trigger scenarios with handler classes, bulkification, and test 
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sudarshanbang&theme=vue&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=sudarshanbang&youtube-dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ Real-world Apex trigger scenarios with handler classes, bulkification, and test 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sudarshanbang&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sudarshanbang&theme=youtube-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 
