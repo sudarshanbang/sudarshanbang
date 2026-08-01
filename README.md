@@ -87,7 +87,7 @@ Real-world Apex trigger scenarios with handler classes, bulkification, and test 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sudarshanbang&theme=vue&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sudarshanbang&theme=youtube-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
