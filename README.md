@@ -87,13 +87,12 @@ Real-world Apex trigger scenarios with handler classes, bulkification, and test 
 </p> -->
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=sudarshanbang&theme=youtube-dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=sudarshanbang&theme=youtube-dark" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sudarshanbang&layout=compact&theme=radical" alt="Top Languages" /> -->
-  (https://github-readme-streak-stats-eight.vercel.app?user=sudarshanbang&theme=youtube-dark" alt="GitHub Streak)
-  [![]()]((https://github-readme-streak-stats-eight.vercel.app?user=sudarshanbang&theme=youtube-dark" alt="GitHub Streak)
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sudarshanbang&layout=compact&theme=radical" alt="Top Languages" />
+ 
 </p>
 
 ---
